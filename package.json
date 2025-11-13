@@ -1,0 +1,20 @@
+{
+  "name": "icp-soft-upload-system",
+  "version": "1.0.0",
+  "description": "软件上传系统 - 基于Vue3的第三方软件上传审核平台",
+  "private": true,
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm install && npm run build",
+    "preview": "cd frontend && npm run preview"
+  },
+  "keywords": [
+    "vue3",
+    "vite",
+    "element-plus",
+    "software-upload",
+    "admin-system"
+  ],
+  "author": "",
+  "license": "MIT"
+}
